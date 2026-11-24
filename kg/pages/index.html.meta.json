@@ -1,0 +1,33 @@
+{
+ "title": "중간고사 시뮬레이션 — 생성형 AI의 활용전략",
+ "number": "01",
+ "series": "중간고사 시뮬레이션 — 생성형 AI의 활용전략",
+ "date": "2026-11-24",
+ "version": "1.1",
+ "creator": [
+  {
+   "name": "안상선",
+   "role": "author"
+  }
+ ],
+ "contributor": [
+  {
+   "name": "AI 보조 제작",
+   "role": "assistant"
+  }
+ ],
+ "about": [
+  "lab:concept/prompt",
+  "lab:term/token",
+  "lab:method/tokenization",
+  "lab:concept/context-engineering",
+  "lab:concept/context-window"
+ ],
+ "basedOn": [],
+ "educationalLevel": "입문~중급",
+ "license": "",
+ "url": "https://adminmrobo.github.io/Gen_AI_Hannam_univ/index.html",
+ "registry": "KG_00_registry 0.3",
+ "seeAlso": "",
+ "suggestedCitation": "안상선 (2026). 중간고사 시뮬레이션 — 생성형 AI의 활용전략. 중간고사 시뮬레이션 — 생성형 AI의 활용전략, v1.1."
+}
